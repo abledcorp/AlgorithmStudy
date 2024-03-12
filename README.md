@@ -13,17 +13,19 @@
 <table>
   <tr>
     <th>Stella</th>
+    <th>Oscar</th>
   </tr>
 
   <tr>
     <td>https://github.com/stellaArtois-yam</td>
+    <td>https://github.com/Oscar-World</td>
   </tr>
 
   <tr>
-    <td> <img width="240" alt="stella hi-001" src="https://github.com/abledcorp/CodingTest/assets/56255288/a444eb56-30fe-4615-acfb-a8062b903fd7"></td>
+    <td align="center"><img width="240" alt="stella hi-001" src="https://github.com/abledcorp/CodingTest/assets/56255288/a444eb56-30fe-4615-acfb-a8062b903fd7"></td>
+    <td align="center"><img width="185" src="https://github.com/abledcorp/CodingTest/assets/108970474/fcf6e672-9bc2-4102-9096-46b3c95c1a0e"></td>
   </tr>
 </table>
-
 
 
 ## 👫 스터디 룰
