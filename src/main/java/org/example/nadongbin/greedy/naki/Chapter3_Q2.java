@@ -17,7 +17,7 @@ public class Chapter3_Q2 {
         int continuous = Integer.valueOf(firstInput[2]);
 
         Arrays.sort(secondInput, Collections.reverseOrder());
-        
+
         int firstMax = Integer.valueOf(secondInput[0]);
         int secondMax = Integer.valueOf(secondInput[1]);
 
