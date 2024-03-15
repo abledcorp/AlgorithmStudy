@@ -14,18 +14,23 @@
   <tr>
     <th>Stella</th>
     <th>Oscar</th>
+    <th>Naki</th>
   </tr>
 
   <tr>
-    <td>https://github.com/stellaArtois-yam</td>
-    <td>https://github.com/Oscar-World</td>
+    <td align="center">https://github.com/stellaArtois-yam</td>
+    <td align="center">https://github.com/Oscar-World</td>
+    <td align="center">https://github.com/naki1114</td>
   </tr>
 
   <tr>
-    <td align="center"><img width="240" alt="stella hi-001" src="https://github.com/abledcorp/CodingTest/assets/56255288/a444eb56-30fe-4615-acfb-a8062b903fd7"></td>
+    <td align="center"><img width="240" src="https://github.com/abledcorp/CodingTest/assets/56255288/a444eb56-30fe-4615-acfb-a8062b903fd7"></td>
     <td align="center"><img width="185" src="https://github.com/abledcorp/CodingTest/assets/108970474/fcf6e672-9bc2-4102-9096-46b3c95c1a0e"></td>
+    <td align="center"><img width="240" src="https://github.com/abledcorp/AlgorithmStudy/assets/56255288/520a1e16-c3b5-4009-8a93-6a8c219285c2"></td>
   </tr>
 </table>
+
+
 
 <br>
 
