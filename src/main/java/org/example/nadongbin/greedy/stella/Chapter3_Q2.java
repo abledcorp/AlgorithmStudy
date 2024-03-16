@@ -12,12 +12,6 @@ public class Chapter3_Q2 {
         String firstLine[] = scanner.next().split(" ");
         String secondLine[] = scanner.next().split(" ");
 
-//        String test1 = "5 7 2";
-//        String test2 = "3 4 3 4 3";
-//
-//        String firstLine[] = test1.split(" ");
-//        String secondLine[] = test2.split(" ");
-
         int condition[] = new int[3];
 
         for(int i = 0; i < 3; i++){
