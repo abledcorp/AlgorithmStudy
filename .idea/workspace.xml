@@ -39,6 +39,7 @@
   "keyToString": {
     "Application.Chapter3_Q1.executor": "Run",
     "Application.Chapter3_Q2.executor": "Run",
+    "Application.Chapter3_Q3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -49,7 +50,7 @@
     "settings.editor.selected.configurable": "preferences.pathVariables"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Chapter3_Q2">
+  <component name="RunManager" selected="Application.Chapter3_Q3">
     <configuration name="Chapter3_Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.nadongbin.greedy.naki.Chapter3_Q1" />
       <module name="AlgorithmStudy" />
@@ -76,8 +77,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Chapter3_Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.nadongbin.greedy.naki.Chapter3_Q3" />
+      <module name="AlgorithmStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.nadongbin.greedy.naki.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Chapter3_Q3" />
         <item itemvalue="Application.Chapter3_Q2" />
         <item itemvalue="Application.Chapter3_Q1" />
       </list>
