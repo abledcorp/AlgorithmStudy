@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04a06171-3111-49fe-9b6b-9ef2abccdd4c" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/nadongbin/greedy/stella/Chapter3_Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/nadongbin/bfsdfs/stella/Chapter5_Q1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgorithmStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmStudy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/nadongbin/greedy/stella/Chapter3_Q2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/nadongbin/greedy/stella/Chapter3_Q2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +40,8 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="Chapter3_Q3" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.nadongbin.greedy.stella.Chapter3_Q3" />
+    <configuration name="Chapter5_Q1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.nadongbin.bfsdfs.stella.Chapter5_Q1" />
       <module name="AlgorithmStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
